@@ -1,0 +1,14 @@
+.container{
+    margin:auto;
+    background-color: peru;
+    padding: 5%;
+    width: 30%;
+}
+
+.rollsinput{
+    width:50%;
+}
+
+.scorebutton{
+    margin-left: 5%;
+}
