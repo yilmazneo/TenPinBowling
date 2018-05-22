@@ -12,3 +12,11 @@
 .scorebutton{
     margin-left: 5%;
 }
+
+.visible{
+    visibility: visible
+}
+
+.hidden{
+    visibility: collapse
+}
